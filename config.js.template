@@ -1,4 +1,4 @@
 module.exports = {
-  bot_token: 'Njg4ODc3NjA2NzQwODIwMDI1.Xm6vLQ.vjICMTwC8q0_mip_fDZabAQsSk0',
+  bot_token: '',
   prefix: '!'
 }
